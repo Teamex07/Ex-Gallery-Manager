@@ -8,7 +8,7 @@ Received AIO Video Downloader apk photo using this script and access them by upl
 App without any warranty 25 taka. If your server gets disabled or suspended then you have to pay again to create the app from the link of the new server. 6 months warranty app 50 taka. If your server gets disabled or suspended then you don't need to pay anything within 6 months to create the app from the link of the new server.
 You download this zip file and create EX Gallery Manager (AIO Video Downloader's photo upload server) and see the link of your server to the admin. Admin will generate epic from that link for you. Epic Price -
 
-<a href="#>Contact</a>
+<a href="https://t.me/samiulalim1230">Contact</a>
 
 
 
