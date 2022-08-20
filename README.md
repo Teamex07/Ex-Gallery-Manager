@@ -1,10 +1,7 @@
 # Ex-Gallery-Manager
 Received AIO Video Downloader apk photo using this script and access them by uploading time in rows. Cool design Made by Team ex....
 
-# Project Title
 
-A brief description of what this project does and who it's for
-f
 
 ## Deployment
 
@@ -29,10 +26,8 @@ Install my-project with npm
     
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- YouTube, Facebook, tiktok, likee, Twitter+ video downloader
+- 
 
 
 ## Demo
@@ -52,6 +47,6 @@ Insert gif or link to demo
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at teamex202207@gmail.com
 
 
