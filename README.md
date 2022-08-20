@@ -29,6 +29,8 @@ Contact to order the app
 ## Demo
 
 ![Logo](1661021689035_100.PNG)
+![Logo](1661024139309_100.PNG)
+![Logo](1661024121423_100.PNG)
 
 
 ## Authors
