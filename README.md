@@ -3,13 +3,12 @@ Received AIO Video Downloader apk photo using this script and access them by upl
 
 
 
-## Deployment
+## Developer
 
-To deploy this project run
 
-```bash
-  npm run deploy
-```
+<a href="#>Contact</a>
+
+
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
