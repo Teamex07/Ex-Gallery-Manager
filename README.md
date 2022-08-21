@@ -18,7 +18,7 @@ Contact to order the app
 
 ## Setup
 
-<a href="https://t.me/c/1659199671/1420">Setup Video</a>
+<a href="https://t.me/Teamex07/250">Setup Video</a>
 
 ## Features
 
